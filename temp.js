@@ -1,0 +1,2 @@
+myLife = ''
+if (myLifeRunning)
