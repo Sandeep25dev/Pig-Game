@@ -1,2 +1,0 @@
-myLife = ''
-if (myLifeRunning)
